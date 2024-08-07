@@ -6,7 +6,8 @@
   - `data_cleaning.ipynb`
   - `senpex_raw_data.xlsx`
   - `senpex_cleanised_data.xlsx`
-  - `SampleCleaningdata.png`
+  - `SampleCleanisedData.png`
+  - `SampleRawData.png`
 - **Excel-Data Analysis**
   - `pivotTable CaseStudiens_COMPLETE.xlsx`
   - Various sample pivot table images
