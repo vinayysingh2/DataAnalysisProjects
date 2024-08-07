@@ -1,4 +1,4 @@
-# Data Viz
+# Data Viz Samples
 
 
 ![Sample_bookingdataViz](https://i.imgur.com/hoH2JPT.png)
