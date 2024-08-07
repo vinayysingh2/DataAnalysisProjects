@@ -1,8 +1,8 @@
 # Sample Data Cleaning
 
 ## Raw Data
-![Sample Raw Data](SampleRawData.PNG)
+![Sample Raw Data](https://i.imgur.com/EPXEW2O.png)
 
 ## Cleanised Data
-![Sample Cleanised Data](SampleCleanisedData.PNG)
+![Sample Cleanised Data](https://i.imgur.com/ZmgCU15.png)
 
