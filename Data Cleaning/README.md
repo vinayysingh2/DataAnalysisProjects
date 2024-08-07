@@ -4,5 +4,5 @@
 ![Sample Raw Data](SampleRawData.PNG)
 
 ## Cleanised Data
-![Sample Cleanised Data](SampleCleanisedData.png)
+![Sample Cleanised Data](SampleCleanisedData.PNG)
 
