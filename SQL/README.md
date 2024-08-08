@@ -6,7 +6,7 @@
 ### MavenMovies Data Analysis
 ![MavenMovie_Analysis](https://i.imgur.com/MyIS7gV.png)
 
-### MavenMovies Data Analysis
+### MavenMovies_mini Data Analysis
 ![MavenMovie_mini_Analysis](https://i.imgur.com/VDeOx4R.png)
 
 ### Restaurant Data Analysis
