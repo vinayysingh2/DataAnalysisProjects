@@ -29,4 +29,3 @@
   - `create_restaurant_order_db.sql`
   - `MavenMovies_db.sql`
   - `layoffs.xlsx`
-  - 
