@@ -6,16 +6,22 @@
   - `data_cleaning.ipynb`
   - `senpex_raw_data.xlsx`
   - `senpex_cleanised_data.xlsx`
-  - `SampleCleanisedData.png`
-  - `SampleRawData.png`
+  - `README.md`
 - **Excel-Data Analysis**
   - `pivotTable CaseStudiens_COMPLETE.xlsx`
-  - Various sample pivot table images
+  - `README.md`
 - **Excel-DataViz**
-  - Various Excel files and sample visualization images
+  - `Cofee Shop Sales.xlsx`
+  - `MavenToys_Monthly_sales.xlsx`
+  - `MHG_Booking_Data.xlsx`
+  - `US_Labor_statistics.xlsx`
+  - `US_Music_Revenues.xlsx`
 - **PowerBI Report**
   - `customerfeedback.xlsx`
-  - `Sample_powerBI Report.png`
+  - `README.md`
   - `EDA&DataViz.pbix`
 - **SQL**
-  - Various SQL files and sample analysis images
+  - `data cleaning.sql`
+  - `Final_Project.sql`
+  - `Mid_Project.sql`
+  - `restaurant_order_analysis`
