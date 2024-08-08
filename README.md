@@ -16,6 +16,7 @@
   - `MHG_Booking_Data.xlsx`
   - `US_Labor_statistics.xlsx`
   - `US_Music_Revenues.xlsx`
+  - `README.md`
 - **PowerBI Report**
   - `customerfeedback.xlsx`
   - `README.md`
