@@ -22,7 +22,11 @@
   - `README.md`
   - `EDA&DataViz.pbix`
 - **SQL**
-  - `data cleaning.sql`
-  - `Final_Project.sql`
-  - `Mid_Project.sql`
-  - `restaurant_order_analysis`
+  - `layoff_data_cleaning.sql`
+  - `MavenMovies_Analysis.sql`
+  - `MavenMocies.mini_Analysis.sql`
+  - `restaurant_order_analysis.sql`
+  - `create_restaurant_order_db.sql`
+  - `MavenMovies_db.sql`
+  - `layoffs.xlsx`
+  - 
